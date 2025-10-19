@@ -43,4 +43,5 @@ for i in range(n):
 
 
 ## Result
+thus the python program to generate a pascal triangle using numbers is created successfully.
 
