@@ -30,7 +30,8 @@ else:
    print("the number is not a palindrome")
 ```
 ## Output
-<img width="1024" height="279" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/24126fc2-53f0-4114-b18b-f3fc9fb4f7b3" />
+<img width="1048" height="260" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/c7d7d6a1-91e6-4d70-8341-a4f38f83f83d" />
+
 
 
 ## Result
