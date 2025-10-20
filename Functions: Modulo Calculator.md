@@ -21,4 +21,8 @@ print(result(a,b))
 
 ## Output
 
+<img width="1149" height="570" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/33ff1eab-8131-440a-b1d0-c47a4ce70818" />
+
+
 ## Result
+Thus the python program that accpect two values and return modulo using % operator was created successfully.
