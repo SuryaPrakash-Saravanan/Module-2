@@ -23,3 +23,4 @@ func(a,b)
 
 
 ## Result
+Thus the python program to get two values from user and return their sum using lambda function was created successfully.
